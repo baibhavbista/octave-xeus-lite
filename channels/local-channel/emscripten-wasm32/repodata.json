@@ -27,11 +27,10 @@
         "emscripten-abi >=3.1.73,<3.1.74.0a0"
       ],
       "license": "GPL-3.0-or-later",
-      "md5": "98457898b27b4726fd338bdd29f2fd90",
+      "md5": "78689c44fce97cbd2508fbb8fa6b6404",
       "name": "xeus-octave-wasm",
       "platform": "emscripten",
-      "size": 3275273,
-      "sha256": "10b0471decb7a441fedc7f3ea6b3b24dd6f762a2c8889f22e721abfdae3a4e58",
+      "sha256": "1d1e39089c031b0f96f5006e9598173a609479656460b86997060b4f7457d0d9",
       "subdir": "emscripten-wasm32",
       "timestamp": 1754058909539,
       "version": "0.2.0"
