@@ -1,7 +1,9 @@
-name: xeus-kernel
+name: xeus-octave-wasm
 channels:
+  # This tells the solver to look in our new local channel first
+  - ./channels/local-channel
   - https://repo.prefix.dev/emscripten-forge-dev
-  - https://repo.prefix.dev/conda-forge
 dependencies:
-  - xeus-python
-  - ipycanvas
+  - xeus-octave-wasm
+  - octave-build-static
+  - xeus
